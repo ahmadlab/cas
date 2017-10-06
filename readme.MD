@@ -13,7 +13,7 @@ Iniadalah package yang di gunakan untuk sso client pemprov banten, dan package i
 
 > - Package ini masih dalam tahap pengembangan.
 > - package ini di gunakan untuk sso app provinsi banten.
-> - Package ini untuk laravel 4.2 keatas.
+> - Package ini untuk laravel 5.2 keatas.
 
 #### <i class="icon-file"></i> Install package
 
