@@ -1,0 +1,26 @@
+{
+    "name": "ahmadlab/cas",
+    "description": "package client for sso apps provinsi banten",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "authors": [
+    {
+      "name": "ahmad juma",
+      "email": "ahmadnorin@gmail.com",
+      "homepage": "https://nettter.com/fa",
+      "role": "Developer"
+    }
+  ],
+   "autoload": {
+    "psr-4": {
+      "Ahmadlab\\Cas\\": "src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1-dev"
+    }
+  }
+}
